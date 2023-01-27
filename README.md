@@ -1,3 +1,3 @@
-# type-str
+# what-str
 
 Is it upper or lower case? and more...
