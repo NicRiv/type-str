@@ -12,7 +12,7 @@
   },
   "keywords": [
     "char",
-    "string"
+    "string", "util", "strings", "utility"
   ],
   "author": "nicriv",
   "license": "MIT",
