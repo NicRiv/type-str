@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NicRiv/type-str.git"
+    "url": "git+https://github.com/NicRiv/what-str.git"
   },
   "keywords": [
     "char",
@@ -17,7 +17,7 @@
   "author": "nicriv",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NicRiv/type-str/issues"
+    "url": "https://github.com/NicRiv/what-str/issues"
   },
-  "homepage": "https://github.com/NicRiv/type-str#readme"
+  "homepage": "https://github.com/NicRiv/what-str#readme"
 }
