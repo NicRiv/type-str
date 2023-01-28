@@ -1,6 +1,6 @@
 {
   "name": "what-str",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is it upper or lower case? and more.",
   "main": "src/index.js",
   "scripts": {
@@ -12,7 +12,10 @@
   },
   "keywords": [
     "char",
-    "string", "util", "strings", "utility"
+    "string",
+    "util",
+    "strings",
+    "utility"
   ],
   "author": "nicriv",
   "license": "MIT",
